@@ -3,7 +3,7 @@
     "description": "Gerenciamento de banco de dados com PDO",
     "keywords": [],
     "homepage": "https://www.isolucoesweb.com.br",
-    "license": "",
+    "license": "MIT",
     "authors": [{
         "name": "Bruno Fumagally",
         "email": "suporte@isolucoesweb.com.br"
