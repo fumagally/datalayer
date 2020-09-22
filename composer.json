@@ -1,0 +1,20 @@
+{
+    "name": "isolucoesweb/datalayer",
+    "description": "Gerenciamento de banco de dados com PDO",
+    "keywords": [],
+    "homepage": "https://www.isolucoesweb.com.br",
+    "license": "",
+    "authors": [{
+        "name": "Bruno Fumagally",
+        "email": "suporte@isolucoesweb.com.br"
+    }],
+    "require": {
+        "php": "^7.2",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ISWEB\\DataLayer\\": "src"
+        }
+    }
+}
